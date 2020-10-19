@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=x\ y\ background
-comment0.target=Square(int,\ int,\ java.awt.Color)
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Square\n\ @param\ int\ x\ the\ row\ on\ the\ board\ this\ square\ appears\ in\n\ @param\ int\ y\ the\ column\ on\ the\ board\ this\ square\ appears\ in\n\ @param\ Color\ background\ the\ colour\ this\ square\ should\ be\n
-comment1.params=current
-comment1.target=void\ addPiece(int[][])
-comment1.text=\n\ Add\ an\ icon\ to\ the\ square.\n\ @param\ int[][]\ the\ current\ state\n
-numComments=2

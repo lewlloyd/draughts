@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=state\ score
+comment0.target=StatesAndScores(int[][],\ int)
+numComments=1
